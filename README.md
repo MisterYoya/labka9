@@ -12,3 +12,4 @@ this is the laba number nine and that's it
 ![Проверка log](2.png)
 
 ![Создание sort.c](3.png)
+Здесь идет форма сортировки
