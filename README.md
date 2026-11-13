@@ -5,4 +5,5 @@ this is the laba number nine and that's it
 
 ## Задание на оценку 3:
 
-![Создание sort.c](1.png)
+![Начальная проверка статуса](1.png)
+![Следующий шаг](2.png)
