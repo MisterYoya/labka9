@@ -21,7 +21,7 @@ this is the laba number nine and that's it
 
 4. Проверил вывод `git status` — файл `sort.c` появился в разделе неотслеживаемых файлов (`Untracked files`).
 
-[Проверка статуса](4.png)
+![Проверка статуса](4.png)
 
 5. Добавил файл в область `stage` (индекс) командой `git add sort.c`.
 
